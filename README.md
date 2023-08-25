@@ -1,2 +1,2 @@
-# Python Cybersecurity Solutions Cookbook
- Python Cybersecurity Solutions Cookbook, by BPB Publications
+# Python for Cybersecurity Cookbook
+ Python for Cybersecurity Cookbook, by BPB Publications
