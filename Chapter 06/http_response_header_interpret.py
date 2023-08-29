@@ -44,4 +44,4 @@ class HttpResponseHeaderInterpreter:
 
 if __name__ == "__main__":
     response_header = HttpResponseHeaderInterpreter()
-    response_header.parse_response_header('https://www.floatr.in')
+    response_header.parse_response_header('<<Host>>')

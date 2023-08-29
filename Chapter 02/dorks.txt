@@ -1,0 +1,2 @@
+inurl:/wp-content/w3tc/dbcache/
+intitle:phpMyAdmin "Welcome to phpMyAdmin ***" "running on * as root@*"
