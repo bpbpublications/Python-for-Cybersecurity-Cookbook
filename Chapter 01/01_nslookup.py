@@ -1,6 +1,6 @@
 """
 Description:
-    Test "nslooup" operation on an IP Address.
+    Test "nslooup" operation on an IP Address or hostname.
 
 Author:
     Nishant Krishna
