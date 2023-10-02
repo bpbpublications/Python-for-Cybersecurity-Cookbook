@@ -1,6 +1,6 @@
 # Python for Cybersecurity Cookbook
 
-Learn how to use Python for vulnerability scanning, malware analysis, penetration testing, and more
+Learn how to use Python for vulnerability scanning, malware analysis, reverse engineering, penetration testing, and more.
 
 This is the repository for [Python for Cybersecurity Cookbook
 ](https://bpbonline.com/products/python-for-cybersecurity-cookbook?variant=42871439524040),published by BPB Publications.

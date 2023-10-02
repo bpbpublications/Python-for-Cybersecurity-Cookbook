@@ -7,6 +7,9 @@ Description:
 Author:
     Nishant Krishna
 
+Chapter:
+    Chapter 02 - Passive Reconnaissance
+
 Created:
     15 May, 2022
 """
@@ -19,6 +22,15 @@ censys_host = CensysHosts()
 
 class CensysHostDetailsParser:
     def print_host_details(self, ip_address) -> json:
+        """
+        User Censys to print the details about the host
+
+        Args:
+            ip_address (string): host
+
+        Returns:
+            json: Host details
+        """
         try:
             ipinfo = censys_host.view(ip_address)
         except:
