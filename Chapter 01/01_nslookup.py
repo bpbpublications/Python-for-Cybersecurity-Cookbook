@@ -2,6 +2,9 @@
 Description:
     Test "nslooup" operation on an IP Address or hostname.
 
+Chapter:
+    Chapter 01 - Getting Started
+
 Author:
     Nishant Krishna
 

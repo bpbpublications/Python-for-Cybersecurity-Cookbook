@@ -7,6 +7,9 @@ Description:
 Author:
     Nishant Krishna
 
+Chapter:
+    Chapter 02 - Passive Reconnaissance
+
 Created:
     14 May, 2022
 """
